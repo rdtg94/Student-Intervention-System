@@ -1,8 +1,11 @@
-# Student Intervention System – Machine Learning Project (EIACD Assignment 2)
+<p align="center">
+  <img src="school_image.png" alt="School illustration" width="600"/>
+</p>
+
+# Student Intervention System – Machine Learning Project
 
 **Author:** Ricardo Daniel Teixeira Gonçalves – 201206788  
-**Course:** Elements of Artificial Intelligence and Data Science (EIACD)  
-**Assignment:** No. 2 – Machine Learning Project
+**Course:** Elements of Artificial Intelligence and Data Science (EIACD)
 
 ---
 

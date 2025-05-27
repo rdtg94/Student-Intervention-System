@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="school_image.png" alt="School illustration" width="600"/>
+  <img src="school_image.png" alt="School illustration" width="400"/>
 </p>
 
 # Student Intervention System – Machine Learning Project
 
-**Author:** Ricardo Daniel Teixeira Gonçalves – 201206788  
+**Author:** Ricardo Daniel Teixeira Gonçalves
 **Course:** Elements of Artificial Intelligence and Data Science (EIACD)
 
 ---
